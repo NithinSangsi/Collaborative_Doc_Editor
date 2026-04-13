@@ -301,5 +301,4 @@ Created with ❤️ for collaborative document editing
 
 ---
 
-**Questions?** Feel free to open an issue or contact support
-
+this README is being generated from the LLM so if interested to know inmore detail go through it or just skip it off .
